@@ -1,6 +1,6 @@
 //author Jesse Watson 12-4-21
 
-// This code will make an RGB LED alternate between red blue and purple.
+// This code will make an RGB LED alternate between red, blue, and purple.
 
 #define RED 11
 #define GREEN 10
