@@ -10,7 +10,7 @@
 
 DHT_nonblocking dht_sensor(SENSOR_PIN, SENSOR_TYPE);
 
-LiquidCrystal lcd(7, 8, 9, 10, 11, 12); // initialize LCD by outlining setting pins
+LiquidCrystal lcd(7, 8, 9, 10, 11, 12); // initialize LCD by setting pins
 
 void setup() 
 {
