@@ -4,7 +4,7 @@
 
 #include <LiquidCrystal.h>
 
-void setup() 
+void setup()
 {
   LiquidCrystal lcd(7, 8, 9, 10, 11, 12); // initialize LCD by setting pins
   lcd.begin(16, 2); // 2 rows, 16 columns
