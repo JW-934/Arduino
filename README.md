@@ -1,2 +1,2 @@
 # Arduino
-My Arduino code
+- This repository contains my code meant to be run on an Arduino.
