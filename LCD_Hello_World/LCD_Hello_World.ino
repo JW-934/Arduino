@@ -1,6 +1,6 @@
-// author Jesse Watson 12-4-21
+// @author Jesse Watson December 4, 2021
 
-// This code prints Hello world! to a 2x16 lcd
+// This code prints "Hello world!" to a 2x16 lcd
 
 #include <LiquidCrystal.h>
 

@@ -1,4 +1,4 @@
-//author Jesse Watson 12-4-21
+// @author Jesse Watson December 4, 2021
 
 // This code will make an RGB LED alternate between red, blue, and purple.
 
