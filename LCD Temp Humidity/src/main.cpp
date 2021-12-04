@@ -2,6 +2,7 @@
 
 // This code measures then prints temperature and humidity values to a 2x16 LCD
 
+#include <Arduino.h>
 #include <LiquidCrystal.h>
 #include <dht_nonblocking.h>
 

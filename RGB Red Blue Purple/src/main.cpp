@@ -2,6 +2,8 @@
 
 // This code will make an RGB LED alternate between red, blue, and purple.
 
+#include <Arduino.h>
+
 #define RED 11
 #define GREEN 10
 #define BLUE 9
@@ -55,5 +57,4 @@ void loop()
     analogWrite(RED, red);
     delay(delayTime);
    }
-
 }

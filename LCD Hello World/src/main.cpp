@@ -2,6 +2,7 @@
 
 // This code prints "Hello world!" to a 2x16 lcd
 
+#include <Arduino.h>
 #include <LiquidCrystal.h>
 
 void setup()
