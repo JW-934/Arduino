@@ -1,5 +1,7 @@
 // @author Jesse Watson December 4, 2021
 
+// This code measures then prints temperature and humidity values to a 2x16 LCD
+
 #include <LiquidCrystal.h>
 #include <dht_nonblocking.h>
 
